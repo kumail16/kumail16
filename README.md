@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Kumail Abbas
-- 👀 I’m interested in learning python, ansible, napalm and the things related to network automation
+- 👀 I’m interested in learning python, ansible, napalm and all the things related to network automation
 - 🌱 I’m currently preparing for CCNA DevNet Associate
 - 📫 You can reach me on my Twitter @skabbas89 or Email me at skabbas@protonmail.com
 
